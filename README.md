@@ -1,6 +1,6 @@
 # Research-Paper_01- Prediction of death rate among COVID-19 patients in the age group of 10 to 19 yrs. using machine learning.
 
-ABSTRACT
+ABSTRACT : 
 COVID-19, a contagious disease which resulted in a worldwide pandemic just like “The Great Plague
 of Marseille” in 1720, “The First Cholera Pandemic” in 1820, and “The Spanish Flu” in 1920, claimed
 many lives. In December 2019 this disease was identified in the Chinese city Wuhan. After that
