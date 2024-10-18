@@ -11,3 +11,6 @@ In this paper, authors have predicted the death rate of COVID-19 patients (Sex, 
 Medical Condition, Hospitalization) in the age group 10-19 years. Data has been analysed through
 Logistic Regression Analysis (LR). The proposed model is tested on the “COVID19_Case_Surveillance_Public_Use_Data” from the UCI Machine Learning Repository.
 Keywords- Logistic Regression, Confusion Matrix, Methodology, 10Fold Cross Validation.
+
+Full Paper Link : http://www.ijetms.in/Vol-7-issue-2/Vol-7-Issue-2-36.html
+
